@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AntExcercise1_VoDinhHieu/1.0.0": {
+        "runtime": {
+          "AntExcercise1_VoDinhHieu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AntExcercise1_VoDinhHieu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

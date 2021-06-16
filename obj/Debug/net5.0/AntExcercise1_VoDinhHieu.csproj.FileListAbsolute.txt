@@ -1,0 +1,15 @@
+/Users/HieuWiliam/Projects/AntExcercise1_VoDinhHieu/bin/Debug/net5.0/AntExcercise1_VoDinhHieu.deps.json
+/Users/HieuWiliam/Projects/AntExcercise1_VoDinhHieu/bin/Debug/net5.0/AntExcercise1_VoDinhHieu.runtimeconfig.json
+/Users/HieuWiliam/Projects/AntExcercise1_VoDinhHieu/bin/Debug/net5.0/AntExcercise1_VoDinhHieu.runtimeconfig.dev.json
+/Users/HieuWiliam/Projects/AntExcercise1_VoDinhHieu/bin/Debug/net5.0/AntExcercise1_VoDinhHieu.dll
+/Users/HieuWiliam/Projects/AntExcercise1_VoDinhHieu/bin/Debug/net5.0/ref/AntExcercise1_VoDinhHieu.dll
+/Users/HieuWiliam/Projects/AntExcercise1_VoDinhHieu/bin/Debug/net5.0/AntExcercise1_VoDinhHieu.pdb
+/Users/HieuWiliam/Projects/AntExcercise1_VoDinhHieu/obj/Debug/net5.0/AntExcercise1_VoDinhHieu.csproj.AssemblyReference.cache
+/Users/HieuWiliam/Projects/AntExcercise1_VoDinhHieu/obj/Debug/net5.0/AntExcercise1_VoDinhHieu.GeneratedMSBuildEditorConfig.editorconfig
+/Users/HieuWiliam/Projects/AntExcercise1_VoDinhHieu/obj/Debug/net5.0/AntExcercise1_VoDinhHieu.AssemblyInfoInputs.cache
+/Users/HieuWiliam/Projects/AntExcercise1_VoDinhHieu/obj/Debug/net5.0/AntExcercise1_VoDinhHieu.AssemblyInfo.cs
+/Users/HieuWiliam/Projects/AntExcercise1_VoDinhHieu/obj/Debug/net5.0/AntExcercise1_VoDinhHieu.csproj.CoreCompileInputs.cache
+/Users/HieuWiliam/Projects/AntExcercise1_VoDinhHieu/obj/Debug/net5.0/AntExcercise1_VoDinhHieu.dll
+/Users/HieuWiliam/Projects/AntExcercise1_VoDinhHieu/obj/Debug/net5.0/ref/AntExcercise1_VoDinhHieu.dll
+/Users/HieuWiliam/Projects/AntExcercise1_VoDinhHieu/obj/Debug/net5.0/AntExcercise1_VoDinhHieu.pdb
+/Users/HieuWiliam/Projects/AntExcercise1_VoDinhHieu/obj/Debug/net5.0/AntExcercise1_VoDinhHieu.genruntimeconfig.cache
